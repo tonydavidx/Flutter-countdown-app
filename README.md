@@ -1,16 +1,9 @@
 # countdown_app
 
-A new Flutter project.
+A simple countdown applicated created using dart and flutter. the allows you to pick a time in hours and seconds and it will count down from that time to 0.
 
-## Getting Started
+## 📷 Screen Shots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|![Flutter countdown app](./screenshot/1.png) | ![android countdown app](./screenshot/2.png)|
+|-|-|
+|![flutter countdown timer app](./screenshot/3.png)|
